@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "463781542591",
+    "firebase_url": "https://templates-5d5d8.firebaseio.com",
+    "project_id": "templates-5d5d8",
+    "storage_bucket": "templates-5d5d8.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:463781542591:android:e06bdb7446d58b3e",
+        "android_client_info": {
+          "package_name": "za.co.einsight.templates"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "463781542591-r8dsqhik6ncu2c9tf14leglm4p8am1bj.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAJ-dGrWjyqZSiHsN0SEf9OgT-7HTVIlgw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
