@@ -32,6 +32,10 @@
             android:name=".recyclerview.RecyclerViewActivity"
             android:label="@string/title_activity_recycler_view">
         </activity>
+        <meta-data
+            android:name="io.fabric.ApiKey"
+            android:value="6f861398034d7e0785c48691cd597e04048ef9b5"
+            />
     </application>
 
 </manifest>

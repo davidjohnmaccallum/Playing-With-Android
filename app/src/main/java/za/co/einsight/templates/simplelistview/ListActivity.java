@@ -25,15 +25,14 @@ public class ListActivity extends AppCompatActivity implements SwipeRefreshLayou
     private ListView mListView;
     private ViewGroup mFeedbackContainer;
     private SwipeRefreshLayout mSwipeLayout;
-    private FirebaseAnalytics mFirebaseAnalytics;
+//    private FirebaseAnalytics mFirebaseAnalytics;
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_list);
 
-
-        mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
+//        mFirebaseAnalytics = FirebaseAnalytics.getInstance(this);
         mListView = (ListView) findViewById(R.id.listView);
         mFeedbackContainer = (ViewGroup) findViewById(R.id.feedbackContainer);
         mSwipeLayout = (SwipeRefreshLayout) findViewById(R.id.swipeContainer);
